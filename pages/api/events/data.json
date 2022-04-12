@@ -1,0 +1,77 @@
+{
+    "events":[
+        {
+            "id": "1",
+            "name": "Throwback Thursday with Dj Many Duke",
+            "slug": "throwback-thursday-with-dj-many-duke",
+            "venue": "Horizon Club",
+            "address": "919 #rd Ave New York (NY),10022",
+            "performers": "DJ Many Duke",
+            "date": "June 09, 2021",
+            "time": "10:00 PM EST",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "image": "/images/sample/event1.jpg"
+        },
+
+        {
+            "id": "2",
+            "name": "Boom Dance Festival ",
+            "slug": "boom-dance-festival",
+            "venue": "Horizon Club",
+            "address": "919 #rd Ave New York (NY),10022",
+            "performers": "DJ Many Duke",
+            "date": "June 09, 2021",
+            "time": "10:00 PM EST",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "image": "/images/sample/event2.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Soul Kitchen Party ",
+            "slug": "soul-kitchen-party",
+            "venue": "Horizon Club",
+            "address": "919 #rd Ave New York (NY),10022",
+            "performers": "DJ Many Duke",
+            "date": "June 09, 2021",
+            "time": "10:00 PM EST",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "image": "/images/sample/event3.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Concert Live",
+            "slug": "concert-live",
+            "venue": "Horizon Club",
+            "address": "919 #rd Ave New York (NY),10022",
+            "performers": "DJ Many Duke",
+            "date": "June 09, 2021",
+            "time": "10:00 PM EST",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "image": "/images/sample/event4.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Birthday Party",
+            "slug": "birthday-party",
+            "venue": "Horizon Club",
+            "address": "919 #rd Ave New York (NY),10022",
+            "performers": "DJ Many Duke",
+            "date": "June 09, 2021",
+            "time": "10:00 PM EST",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "image": "/images/sample/event5.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Encore Night Boat Party",
+            "slug": "encore-night-boat-party",
+            "venue": "Horizon Club",
+            "address": "919 #rd Ave New York (NY),10022",
+            "performers": "DJ Many Duke",
+            "date": "June 09, 2021",
+            "time": "10:00 PM EST",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "image": "/images/sample/event6.jpg"
+        }
+    ]
+}
