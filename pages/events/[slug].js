@@ -34,7 +34,7 @@ export default function EventPage({evt}) {
 <h1>{evt.name}</h1>
   {evt.image && (
     <div className={styles.image}>
-      <Image src={evt.image} width={960} height={600} />
+      <Image src={evt.image} alt="image" width={960} height={600} />
     </div>
   )}
 
@@ -48,42 +48,10 @@ export default function EventPage({evt}) {
   <a className='{styles.back}'>{'<'} Go Back</a>
 </Link>
       </div>
-      {/* <h1>{evt.name}</h1> */}
-      {/* <h3>{router.query.slug}</h3>
-      <button onClick={()=> router.push('/')}>click</button> */}
+      
     </Layout>
   );
 }
-
-// export async function getStaticPaths() {
-//  const res = await fetch(`${API_URL}/api/events`)
-//  const events = await res.json()
-//  console.log(evt.slug)
-
-
-//  const paths = events.map(evt => ({
-//    params: {slug: evt.slug}
-//  }))
-
-//   return{
-//     paths,fallback: true, 
-//   } 
-
-// }
-
-// export async function getStaticProps({ params: { slug }}) {
-//   const res = await fetch(`${API_URL}/api/events`)
-//   const events = await res.json()
- 
- 
-//   return { 
-//     props: { 
-//       evt: events[0] 
-//     }, 
-//   }
-// }
-
-
 
 
 
