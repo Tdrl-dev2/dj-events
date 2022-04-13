@@ -15,7 +15,7 @@ export default function EventsPage({events}) {
 
       }
       
-      <a href="/about">About</a>
+      
       </Layout>
     
   )
